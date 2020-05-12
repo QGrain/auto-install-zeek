@@ -22,8 +22,8 @@ Get start
 ```
 
 ## Todo
-- [x] Check for potential bugs
-- [x] Add support for installing from non-recursive-clone
+- [ ] Check for potential bugs
+- [ ] Add support for installing from non-recursive-clone
 
 ## Change Log
 **v0.1.0 (2020-03-13) :beer:**
