@@ -17,8 +17,8 @@ sudo yum install -y ${dependency[*]}
 
 
 # get gcc g++
-echo sudo yum install centos-release-scl
-echo sudo yum install devtoolset-7-gcc*
+sudo yum install centos-release-scl
+sudo yum install devtoolset-7-gcc*
 export PATH=$PATH:/opt/rh/devtoolset-7/root/bin
 echo 'export PATH=$PATH:/opt/rh/devtoolset-7/root/bin' >> ~/.bashrc
 source ~/.bashrc
